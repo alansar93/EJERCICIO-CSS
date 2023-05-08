@@ -1,0 +1,35 @@
+img{
+    width: 700px;
+}
+
+p{
+    width: 400px;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.parte1 {
+    border: 4px solid red;
+}
+
+.parte2 {
+    border: 4px solid violet;
+    width: 400px;
+}
+
+.parte3{
+    border: 4px solid sienna;
+}
+
+.parte4 {
+    border: 4px solid blue;
+    width: 500px;
+}
+
+#imgEspecial {
+    border: 4px dotted black;
+}
+
+#parespecial {
+   border-bottom: 5px solid gray;
+}
